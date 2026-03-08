@@ -72,6 +72,11 @@ The dataset includes the following columns:
 
 ## Key Highlights
 
+<img width="854" height="586" alt="Screenshot 2026-03-09 010244" src="https://github.com/user-attachments/assets/94719693-44f2-4862-a07e-2da5c7e6e114" />
+
+
+
+- "A Transformer-Based Approach for Intensity Classification of Bengali Hate Speech" paper got accepted at IEEE QPAIN 2026.
 - First work on **Bangla hate speech intensity classification**.
 - Multi-model comparison ensures robustness.
 - Includes both **traditional ML** and **deep learning approaches**.
